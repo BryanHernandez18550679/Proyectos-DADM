@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EVA1_8_EVENTOS_RECURSOS</string>
+    <string name="radbuttonesp">Español</string>
+    <string name="radbuttoning">Inglés</string>
+    <string name="textviewnombreesp">Nombre</string>
+    <string name="hintnombre">Introduce tu(s) nombre(s)</string>
+    <string name="textviewapellidoesp">Apellido</string>
+    <string name="hintapellidos">Introduce tu(s) apellido(s)</string>
+
+    <string name="radbuttonspanish">Spanish</string>
+    <string name="radbuttoningeng">English</string>
+    <string name="textviewnombreeng">First name</string>
+    <string name="hintnombreeng">Your first name</string>
+    <string name="textviewapellidoeng">Lastname</string>
+    <string name="hintapellidoseng">Your lastname(s)</string>
+</resources>
